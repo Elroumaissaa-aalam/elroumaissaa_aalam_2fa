@@ -1,0 +1,1 @@
+Your 2FA login code is: {{ $code }} 

@@ -1,0 +1,1 @@
+Your 2FA disable code is: {{ $code }} 

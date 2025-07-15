@@ -1,0 +1,1 @@
+Your 2FA enable code is: {{ $code }} 
