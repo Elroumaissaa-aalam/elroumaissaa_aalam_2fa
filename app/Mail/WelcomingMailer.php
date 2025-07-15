@@ -16,9 +16,11 @@ class WelcomingMailer extends Mailable
     /**
      * Create a new message instance.
      */
-    public function __construct()
+    public $emails;
+    public function __construct($email)
     {
         //
+        $this-> emails = $email;
     }
 
     /**
